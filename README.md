@@ -13,6 +13,9 @@ Table of Contents:
         Lectures to support topic on Moodle: https://vlegalwaymayo.atu.ie/course/view.php?id=6386
         Datacamp - numerous courses/tracks completed over last number of months have supported this exercise
         Udemy course: https://www.udemy.com/course/the-modern-python3-bootcamp/learn/lecture/8680110?start=94#overview
+        Troubleshooting: https://stackoverflow.com/
+        Troubleshooting: https://www.w3schools.com/
+        Troubleshooting: https://www.youtube.com/
     - Exercise 2:
         https://en.wikipedia.org/wiki/Logarithm
         https://www.britannica.com/science/logarithm
