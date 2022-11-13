@@ -23,6 +23,7 @@ Exercise 2:
 https://en.wikipedia.org/wiki/Logarithm
 https://www.britannica.com/science/logarithm
 https://www.geeksforgeeks.org/logarithm-formula/
+https://www.w3schools.com/python/ref_math_log.asp
 
 Topic 2: Randomness
 Exercise 1:
