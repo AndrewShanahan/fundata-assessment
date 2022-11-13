@@ -59,14 +59,18 @@ __Exercise 3:__<br>
 Uniform:<br>
 * https://numpy.org/doc/stable/reference/random/generated/numpy.random.uniform.html<br>
 Gamma:<br>
-* https://www.statology.org/gamma-distribution-in-python/
+* https://www.statology.org/gamma-distribution-in-python/<br>
 Poisson:<br>
-https://www.statology.org/poisson-distribution-python/
+* https://www.statology.org/poisson-distribution-python/<br>
 
 __Topic 3: Bias__<br>
 __Exercise 1:__<br>
-__Exercise 2:__<br>
+* https://www.kdnuggets.com/2020/06/five-cognitive-biases-data-science.html<br>
+* https://www.youtube.com/watch?v=wEwGBIr_RIw<br>
+* https://towardsdatascience.com/cognitive-biases-facing-data-scientists-86489e99dea8<br>
 
+__Exercise 2:__<br>
+* https://towardsdatascience.com/using-standard-deviation-in-python-77872c32ba9b<br>
 
 __Normal Distribution Notebook References:__<br>
 * https://www.geeksforgeeks.org/how-to-plot-normal-distribution-over-histogram-in-python/
