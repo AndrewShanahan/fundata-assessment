@@ -2,7 +2,7 @@
 
 ## __fundata-assessment - README__<br>
 
-__Introduction__<br>
+<font color=green>__Introduction__</font><br>
 
 This repository has been created as part of the course work for the Fundamentals of Data Analysis module in the Higher Diploma in Computer Programming in Data Analytics provided by Atlantic Technical University.<br>
 
