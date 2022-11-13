@@ -31,6 +31,9 @@ https://www.geeksforgeeks.org/coin-toss-probability-formula/
         
 Exercise 2:
 Exercise 3:
+Uniform:
+https://numpy.org/doc/stable/reference/random/generated/numpy.random.uniform.html
+
 
 Topic 3: Bias
 Exercise 1:
