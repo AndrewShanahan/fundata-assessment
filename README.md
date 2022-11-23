@@ -2,7 +2,7 @@
 
 ## __fundata-assessment - README__<br>
 
-<font color=green>__Introduction__</font><br>
+__Introduction__
 
 This repository has been created as part of the course work for the Fundamentals of Data Analysis module in the Higher Diploma in Computer Programming in Data Analytics provided by Atlantic Technical University.<br>
 
@@ -73,7 +73,7 @@ __Exercise 2:__<br>
 * https://towardsdatascience.com/using-standard-deviation-in-python-77872c32ba9b<br>
 
 __Normal Distribution Notebook References:__<br>
-* https://www.geeksforgeeks.org/how-to-plot-normal-distribution-over-histogram-in-python/
+* https://www.geeksforgeeks.org/how-to-plot-normal-distribution-over-histogram-in-python/<br>
 
 __Readme file editing:__<br>
 * https://medium.com/analytics-vidhya/the-jupyter-notebook-formatting-guide-873ab39f765e<br>
