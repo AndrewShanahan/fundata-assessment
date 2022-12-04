@@ -77,6 +77,7 @@ __Normal Distribution Notebook References:__<br>
 * https://www.geeksforgeeks.org/how-to-plot-normal-distribution-over-histogram-in-python/<br>
 * https://www.statology.org/generate-normal-distribution-python/<br>
 * https://www.w3schools.com/python/python_ml_normal_data_distribution.asp<br>
+* https://en.wikipedia.org/wiki/LaTeX<br>
 
 __Readme file editing:__<br>
 * https://medium.com/analytics-vidhya/the-jupyter-notebook-formatting-guide-873ab39f765e<br>
