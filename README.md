@@ -81,6 +81,7 @@ __Normal Distribution Notebook References:__<br>
 
 __Readme file editing:__<br>
 * https://medium.com/analytics-vidhya/the-jupyter-notebook-formatting-guide-873ab39f765e<br>
+* https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/<br>
  
 __Contact__ <br>
 G00217642@atu.ie
