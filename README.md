@@ -3,7 +3,9 @@
 
 ## __fundata-assessment - README__<br>
 
-[!ReadmePic]("https://thumbor.forbes.com/thumbor/fit-in/900x510/https://www.forbes.com/advisor/wp-content/uploads/2022/06/data_analytics_certifications_-_article_image.jpg")
+![IntroPic](https://thumbor.forbes.com/thumbor/fit-in/900x510/https://www.forbes.com/advisor/wp-content/uploads/2022/06/data_analytics_certifications_-_article_image.jpg)
+
+
 
 __Introduction__
 
