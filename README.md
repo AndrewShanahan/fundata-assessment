@@ -3,6 +3,8 @@
 
 ## __fundata-assessment - README__<br>
 
+[!ReadmePic](https://thumbor.forbes.com/thumbor/fit-in/900x510/https://www.forbes.com/advisor/wp-content/uploads/2022/06/data_analytics_certifications_-_article_image.jpg)
+
 __Introduction__
 
 This repository has been created as part of the course work for the Fundamentals of Data Analysis module in the Higher Diploma in Computer Programming in Data Analytics provided by Atlantic Technical University.<br>
@@ -78,6 +80,7 @@ __Normal Distribution Notebook References:__<br>
 * https://www.statology.org/generate-normal-distribution-python/<br>
 * https://www.w3schools.com/python/python_ml_normal_data_distribution.asp<br>
 * https://en.wikipedia.org/wiki/LaTeX<br>
+* https://studiousguy.com/real-life-examples-normal-distribution/<br>
 
 __Readme file editing:__<br>
 * https://medium.com/analytics-vidhya/the-jupyter-notebook-formatting-guide-873ab39f765e<br>
