@@ -83,6 +83,7 @@ __Normal Distribution Notebook References:__<br>
 * https://www.w3schools.com/python/python_ml_normal_data_distribution.asp<br>
 * https://en.wikipedia.org/wiki/LaTeX<br>
 * https://studiousguy.com/real-life-examples-normal-distribution/<br>
+* https://www.middlesex.mass.edu/ace/downloads/tipsheets/normal_cf.pdf<br>
 
 __Readme file editing:__<br>
 * https://medium.com/analytics-vidhya/the-jupyter-notebook-formatting-guide-873ab39f765e<br>
