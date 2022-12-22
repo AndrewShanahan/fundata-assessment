@@ -77,6 +77,14 @@ __Exercise 1:__<br>
 __Exercise 2:__<br>
 * https://towardsdatascience.com/using-standard-deviation-in-python-77872c32ba9b<br>
 
+__Topic 4: Outliers__<br>
+* https://stackoverflow.com/questions/31842892/how-to-add-labels-to-a-boxplot-figure-pylab<br>
+* https://stackoverflow.com/questions/61734304/label-outliers-in-a-boxplot-python<br>
+* https://towardsdatascience.com/create-and-customize-boxplots-with-pythons-matplotlib-to-get-lots-of-insights-from-your-data-d561c9883643<br>
+
+
+__Topic 5: Cleansing__<br>
+
 __Normal Distribution Notebook References:__<br>
 * https://www.geeksforgeeks.org/how-to-plot-normal-distribution-over-histogram-in-python/<br>
 * https://www.statology.org/generate-normal-distribution-python/<br>
