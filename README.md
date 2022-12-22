@@ -81,6 +81,8 @@ __Topic 4: Outliers__<br>
 * https://stackoverflow.com/questions/31842892/how-to-add-labels-to-a-boxplot-figure-pylab<br>
 * https://stackoverflow.com/questions/61734304/label-outliers-in-a-boxplot-python<br>
 * https://towardsdatascience.com/create-and-customize-boxplots-with-pythons-matplotlib-to-get-lots-of-insights-from-your-data-d561c9883643<br>
+* https://www.nickmccullum.com/python-visualization/boxplot/<br>
+
 
 
 __Topic 5: Cleansing__<br>
