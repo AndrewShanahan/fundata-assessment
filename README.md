@@ -87,6 +87,9 @@ __Topic 4: Outliers__<br>
 
 
 __Topic 5: Cleansing__<br>
+__Exercise 1:
+* https://bobbyhadz.com/blog/python-remove-non-alphanumeric-characters-from-string#:~:text=sub()%20method%20to%20remove,replacing%20them%20with%20empty%20strings.<br>
+
 
 __Normal Distribution Notebook References:__<br>
 * https://www.geeksforgeeks.org/how-to-plot-normal-distribution-over-histogram-in-python/<br>
