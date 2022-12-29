@@ -84,12 +84,9 @@ __Topic 4: Outliers__<br>
 * https://www.nickmccullum.com/python-visualization/boxplot/<br>
 * https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.boxplot.html<br>
 
-
-
 __Topic 5: Cleansing__<br>
 __Exercise 1:
 * https://bobbyhadz.com/blog/python-remove-non-alphanumeric-characters-from-string#:~:text=sub()%20method%20to%20remove,replacing%20them%20with%20empty%20strings.<br>
-
 
 __Normal Distribution Notebook References:__<br>
 * https://www.geeksforgeeks.org/how-to-plot-normal-distribution-over-histogram-in-python/<br>
@@ -102,6 +99,6 @@ __Normal Distribution Notebook References:__<br>
 __Readme file editing:__<br>
 * https://medium.com/analytics-vidhya/the-jupyter-notebook-formatting-guide-873ab39f765e<br>
 * https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/<br>
- 
+
 __Contact__ <br>
 G00217642@atu.ie
