@@ -5,8 +5,6 @@
 
 ![IntroPic](https://thumbor.forbes.com/thumbor/fit-in/900x510/https://www.forbes.com/advisor/wp-content/uploads/2022/06/data_analytics_certifications_-_article_image.jpg)
 
-
-
 __Introduction__
 
 This repository has been created as part of the course work for the Fundamentals of Data Analysis module in the Higher Diploma in Computer Programming in Data Analytics provided by Atlantic Technical University.<br>
@@ -48,7 +46,6 @@ __Exercise 1:__<br>
 * Troubleshooting: https://stackoverflow.com/<br>
 * Troubleshooting: https://www.w3schools.com/<br>
 * Troubleshooting: https://www.youtube.com/<br>
-
 __Exercise 2:__<br>
 * https://en.wikipedia.org/wiki/Logarithm<br>
 * https://www.britannica.com/science/logarithm<br>
@@ -56,9 +53,9 @@ __Exercise 2:__<br>
 * https://www.w3schools.com/python/ref_math_log.asp<br>
 
 __Topic 2: Randomness__<br>
-Exercise 1:<br>
+
+__Exercise 1:__<br>
 * https://www.geeksforgeeks.org/coin-toss-probability-formula/<br>
-        
 __Exercise 2:__<br>
 __Exercise 3:__<br>
 Uniform:<br>
@@ -69,24 +66,35 @@ Poisson:<br>
 * https://www.statology.org/poisson-distribution-python/<br>
 
 __Topic 3: Bias__<br>
+
 __Exercise 1:__<br>
 * https://www.kdnuggets.com/2020/06/five-cognitive-biases-data-science.html<br>
 * https://www.youtube.com/watch?v=wEwGBIr_RIw<br>
 * https://towardsdatascience.com/cognitive-biases-facing-data-scientists-86489e99dea8<br>
-
 __Exercise 2:__<br>
 * https://towardsdatascience.com/using-standard-deviation-in-python-77872c32ba9b<br>
 
 __Topic 4: Outliers__<br>
+
+__Exercise 1:__<br>
 * https://stackoverflow.com/questions/31842892/how-to-add-labels-to-a-boxplot-figure-pylab<br>
 * https://stackoverflow.com/questions/61734304/label-outliers-in-a-boxplot-python<br>
 * https://towardsdatascience.com/create-and-customize-boxplots-with-pythons-matplotlib-to-get-lots-of-insights-from-your-data-d561c9883643<br>
 * https://www.nickmccullum.com/python-visualization/boxplot/<br>
 * https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.boxplot.html<br>
+__Exercise 2:__<br>
+__Exercise 3:__<br>
+* https://www.mathsisfun.com/algebra/directly-inversely-proportional.html
+* https://neptune.ai/blog/pandas-plot-deep-dive-into-plotting-directly-with-pandas
+* https://www.oreilly.com/library/view/python-data-science/9781491912126/ch04.html
+* https://stackoverflow.com/questions/2051744/how-to-invert-the-x-or-y-axis
+* https://stackoverflow.com/questions/66103601/inverse-y-axis-in-python-scatter-plt
 
 __Topic 5: Cleansing__<br>
+
 __Exercise 1:
 * https://bobbyhadz.com/blog/python-remove-non-alphanumeric-characters-from-string#:~:text=sub()%20method%20to%20remove,replacing%20them%20with%20empty%20strings.<br>
+__Exercise 2:__<br>
 
 __Normal Distribution Notebook References:__<br>
 * https://www.geeksforgeeks.org/how-to-plot-normal-distribution-over-histogram-in-python/<br>
