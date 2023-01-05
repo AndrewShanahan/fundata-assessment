@@ -103,6 +103,7 @@ __Normal Distribution Notebook References:__<br>
 * https://en.wikipedia.org/wiki/LaTeX<br>
 * https://studiousguy.com/real-life-examples-normal-distribution/<br>
 * https://www.middlesex.mass.edu/ace/downloads/tipsheets/normal_cf.pdf<br>
+* https://statisticsbyjim.com/basics/normal-distribution/<br>
 
 __Readme file editing:__<br>
 * https://medium.com/analytics-vidhya/the-jupyter-notebook-formatting-guide-873ab39f765e<br>
