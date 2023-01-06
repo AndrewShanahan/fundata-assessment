@@ -34,6 +34,8 @@ __General References:__<br>
 
 * Datacamp - numerous courses/tracks completed over last number of months have supported this exercise<br>
 * Udemy course: https://www.udemy.com/course/the-modern-python3-bootcamp/learn/lecture/8680110?start=94#overview<br>
+* W3schools - Resource used on regular basis: https://www.w3schools.com/<br>
+* Stackoverflow - Resource used to help troubleshoot problems and help with coding: https://stackoverflow.com/<br>
 
 __Practicles Notebook References:__<br>
 
@@ -62,6 +64,7 @@ __Exercise 1:__<br>
 * https://www.geeksforgeeks.org/coin-toss-probability-formula/<br>
 
 __Exercise 2:__<br>
+* https://en.wikipedia.org/wiki/Probability<br>
 
 __Exercise 3:__<br>
 Uniform:<br>
@@ -91,6 +94,8 @@ __Exercise 1:__<br>
 * https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.boxplot.html<br>
 
 __Exercise 2:__<br>
+* https://www.w3schools.com/python/matplotlib_intro.asp<br>
+* https://www.w3schools.com/python/matplotlib_plotting.asp<br>
 
 __Exercise 3:__<br>
 * https://www.mathsisfun.com/algebra/directly-inversely-proportional.html
@@ -119,5 +124,5 @@ __Readme file editing:__<br>
 * https://medium.com/analytics-vidhya/the-jupyter-notebook-formatting-guide-873ab39f765e<br>
 * https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/<br>
 
-__Contact__ <br>
+__Contact:__ <br>
 G00217642@atu.ie
