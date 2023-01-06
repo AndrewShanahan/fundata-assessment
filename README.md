@@ -110,6 +110,8 @@ __Exercise 1:__<br>
 * https://bobbyhadz.com/blog/python-remove-non-alphanumeric-characters-from-string#:~:text=sub()%20method%20to%20remove,replacing%20them%20with%20empty%20strings.<br>
 
 __Exercise 2:__<br>
+* https://learnpython.com/blog/uppercase-letter-python/#:~:text=capitalize()&text=It%20is%20used%20just%20like%20the%20title()%20method.&text=We%20know%20the%20capitalize(),method%20to%20capitalize%20each%20word.<br>
+* https://stackoverflow.com/a/1393367<br>
 
 __Normal Distribution Notebook References:__<br>
 * https://www.geeksforgeeks.org/how-to-plot-normal-distribution-over-histogram-in-python/<br>
