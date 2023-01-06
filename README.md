@@ -101,7 +101,7 @@ __Exercise 3:__<br>
 
 __Topic 5: Cleansing__<br>
 
-__Exercise 1:
+__Exercise 1:__<br>
 * https://bobbyhadz.com/blog/python-remove-non-alphanumeric-characters-from-string#:~:text=sub()%20method%20to%20remove,replacing%20them%20with%20empty%20strings.<br>
 
 __Exercise 2:__<br>
