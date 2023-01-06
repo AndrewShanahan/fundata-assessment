@@ -30,6 +30,11 @@ __Normal Distribution Notebook__<br>
 
 This notebook is about normal distribution, where it is defined, concepts explained and the use of visuals.<br>
 
+__General References:__<br>
+
+* Datacamp - numerous courses/tracks completed over last number of months have supported this exercise<br>
+* Udemy course: https://www.udemy.com/course/the-modern-python3-bootcamp/learn/lecture/8680110?start=94#overview<br>
+
 __Practicles Notebook References:__<br>
 
 * matplotlyb.plyplot:https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.html
@@ -41,11 +46,10 @@ __Topic 1: Information__<br>
 __Exercise 1:__<br>
 * Lecturer notebook: https://github.com/ianmcloughlin/2223-S1-fund-data-analysis/blob/main/notebooks/01-information.ipynb<br>
 * Lectures to support topic on Moodle: https://vlegalwaymayo.atu.ie/course/view.php?id=6386<br>
-* Datacamp - numerous courses/tracks completed over last number of months have supported this exercise<br>
-* Udemy course: https://www.udemy.com/course/the-modern-python3-bootcamp/learn/lecture/8680110?start=94#overview<br>
 * Troubleshooting: https://stackoverflow.com/<br>
 * Troubleshooting: https://www.w3schools.com/<br>
 * Troubleshooting: https://www.youtube.com/<br>
+
 __Exercise 2:__<br>
 * https://en.wikipedia.org/wiki/Logarithm<br>
 * https://www.britannica.com/science/logarithm<br>
@@ -56,7 +60,9 @@ __Topic 2: Randomness__<br>
 
 __Exercise 1:__<br>
 * https://www.geeksforgeeks.org/coin-toss-probability-formula/<br>
+
 __Exercise 2:__<br>
+
 __Exercise 3:__<br>
 Uniform:<br>
 * https://numpy.org/doc/stable/reference/random/generated/numpy.random.uniform.html<br>
@@ -71,6 +77,7 @@ __Exercise 1:__<br>
 * https://www.kdnuggets.com/2020/06/five-cognitive-biases-data-science.html<br>
 * https://www.youtube.com/watch?v=wEwGBIr_RIw<br>
 * https://towardsdatascience.com/cognitive-biases-facing-data-scientists-86489e99dea8<br>
+
 __Exercise 2:__<br>
 * https://towardsdatascience.com/using-standard-deviation-in-python-77872c32ba9b<br>
 
@@ -82,7 +89,9 @@ __Exercise 1:__<br>
 * https://towardsdatascience.com/create-and-customize-boxplots-with-pythons-matplotlib-to-get-lots-of-insights-from-your-data-d561c9883643<br>
 * https://www.nickmccullum.com/python-visualization/boxplot/<br>
 * https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.boxplot.html<br>
+
 __Exercise 2:__<br>
+
 __Exercise 3:__<br>
 * https://www.mathsisfun.com/algebra/directly-inversely-proportional.html
 * https://neptune.ai/blog/pandas-plot-deep-dive-into-plotting-directly-with-pandas
@@ -94,6 +103,7 @@ __Topic 5: Cleansing__<br>
 
 __Exercise 1:
 * https://bobbyhadz.com/blog/python-remove-non-alphanumeric-characters-from-string#:~:text=sub()%20method%20to%20remove,replacing%20them%20with%20empty%20strings.<br>
+
 __Exercise 2:__<br>
 
 __Normal Distribution Notebook References:__<br>
